@@ -1,0 +1,5 @@
+interpreter/AST.class
+interpreter/Parser.class
+interpreter/Lexer.class
+interpreter/Interpreter.class
+interpreter/Token.class

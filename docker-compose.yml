@@ -1,0 +1,8 @@
+version: '3'
+services:
+  interpreter:
+    container_name: interpreter
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    image: pi
